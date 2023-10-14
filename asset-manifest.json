@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Redux-based-Invoice-Management-System/static/css/main.8cffe845.chunk.css",
+    "main.js": "/Redux-based-Invoice-Management-System/static/js/main.43532835.chunk.js",
+    "main.js.map": "/Redux-based-Invoice-Management-System/static/js/main.43532835.chunk.js.map",
+    "runtime-main.js": "/Redux-based-Invoice-Management-System/static/js/runtime-main.7c018e89.js",
+    "runtime-main.js.map": "/Redux-based-Invoice-Management-System/static/js/runtime-main.7c018e89.js.map",
+    "static/js/2.370d5497.chunk.js": "/Redux-based-Invoice-Management-System/static/js/2.370d5497.chunk.js",
+    "static/js/2.370d5497.chunk.js.map": "/Redux-based-Invoice-Management-System/static/js/2.370d5497.chunk.js.map",
+    "static/css/3.0910520a.chunk.css": "/Redux-based-Invoice-Management-System/static/css/3.0910520a.chunk.css",
+    "static/js/3.910a4650.chunk.js": "/Redux-based-Invoice-Management-System/static/js/3.910a4650.chunk.js",
+    "static/js/3.910a4650.chunk.js.map": "/Redux-based-Invoice-Management-System/static/js/3.910a4650.chunk.js.map",
+    "static/js/4.7a04a878.chunk.js": "/Redux-based-Invoice-Management-System/static/js/4.7a04a878.chunk.js",
+    "static/js/4.7a04a878.chunk.js.map": "/Redux-based-Invoice-Management-System/static/js/4.7a04a878.chunk.js.map",
+    "static/js/5.2fe57eea.chunk.js": "/Redux-based-Invoice-Management-System/static/js/5.2fe57eea.chunk.js",
+    "static/js/5.2fe57eea.chunk.js.map": "/Redux-based-Invoice-Management-System/static/js/5.2fe57eea.chunk.js.map",
+    "index.html": "/Redux-based-Invoice-Management-System/index.html",
+    "static/css/3.0910520a.chunk.css.map": "/Redux-based-Invoice-Management-System/static/css/3.0910520a.chunk.css.map",
+    "static/css/main.8cffe845.chunk.css.map": "/Redux-based-Invoice-Management-System/static/css/main.8cffe845.chunk.css.map",
+    "static/js/2.370d5497.chunk.js.LICENSE.txt": "/Redux-based-Invoice-Management-System/static/js/2.370d5497.chunk.js.LICENSE.txt",
+    "static/js/3.910a4650.chunk.js.LICENSE.txt": "/Redux-based-Invoice-Management-System/static/js/3.910a4650.chunk.js.LICENSE.txt",
+    "static/js/4.7a04a878.chunk.js.LICENSE.txt": "/Redux-based-Invoice-Management-System/static/js/4.7a04a878.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c018e89.js",
+    "static/css/3.0910520a.chunk.css",
+    "static/js/3.910a4650.chunk.js",
+    "static/css/main.8cffe845.chunk.css",
+    "static/js/main.43532835.chunk.js"
+  ]
+}
