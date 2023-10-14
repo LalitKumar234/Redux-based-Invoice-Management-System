@@ -24,4 +24,4 @@ npm start / npm run build
 
 ### Meta
 
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
+Lalit Kumar – [instagram handle](https://www.instagram.com/frontend_edy/)
