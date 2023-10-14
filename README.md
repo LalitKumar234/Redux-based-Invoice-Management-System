@@ -7,6 +7,7 @@ Redux-based-Invoice-Management-System built. We can create, read, update, delete
 https://invoice-generator-react.netlify.app/
 
 ### Screenshots
+<img width="1470" alt="image" src="https://github.com/LalitKumar234/Redux-based-Invoice-Management-System/assets/64685787/575331d5-a0df-447c-8947-4c842e310961">
 <img src="https://i.imgur.com/wRetnxk.png" style="max-width: 100px; width: 100%; height: auto;">
 <img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
 <img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
