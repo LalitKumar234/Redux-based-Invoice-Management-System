@@ -1,7 +1,7 @@
 # Redux-based-Invoice-Management-System
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-Redux-based-Invoice-Management-System built. We can create, read, update, delete, and create a new invoice from an existing one. This project is the extended version of https://github.com/johnuberbacher/invoice-generator. 
+Redux-based-Invoice-Management-System lets you create, read, update, delete, and create a new invoice from an existing one. This project is the extended version of https://github.com/johnuberbacher/invoice-generator. 
 
 ### Live Demo
 https://invoice-generator-react.netlify.app/
@@ -15,7 +15,7 @@ https://invoice-generator-react.netlify.app/
 ### Installation
 
 ```
-git clone [https://github.com/johnuberbacher/invoice-generator](https://github.com/LalitKumar234/Redux-based-Invoice-Management-System)
+git clone https://github.com/LalitKumar234/Redux-based-Invoice-Management-System/
 
 npm install
 
