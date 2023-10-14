@@ -1,5 +1,4 @@
 {
-  "homepage": "http://lalitkumar234.github.io/redux-based-invoice-management-system",
   "name": "redux-based-invoice-management-system",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +17,7 @@
     "react-icons": "^4.2.0",
     "react-redux": "^8.1.3",
     "react-router-dom": "^6.16.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.1",
     "redux": "^4.2.1",
     "web-vitals": "^1.1.2"
   },
