@@ -81,7 +81,7 @@ function AllInvoice() {
                   delay={{ hide: 200, show: 100 }}
                   overlay={(props) => (
                     <Tooltip {...props}>
-                      Create new invoice from this
+                      Create a copy of this invoice
                     </Tooltip>
                   )}
                   placement="bottom"
