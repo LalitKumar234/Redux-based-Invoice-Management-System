@@ -4,7 +4,7 @@
 Redux-based-Invoice-Management-System lets you create, read, update, delete, and create a new invoice from an existing one. This project is the extended version of https://github.com/johnuberbacher/invoice-generator. 
 
 ### Live Demo
-https://redux-based-invoice-management-system.vercel
+https://redux-based-invoice-management-system.vercel.app/
 
 ### Screenshots
 <img width="1470" alt="image" src="https://github.com/LalitKumar234/Redux-based-Invoice-Management-System/assets/64685787/575331d5-a0df-447c-8947-4c842e310961">
