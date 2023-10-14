@@ -30,7 +30,7 @@ function AllInvoice() {
     setData(index)
   }
   return (
-    <div className="App d-flex flex-column justify-content-start w-75 mt-5">
+    <div className="App d-flex flex-column justify-content-start responsive mt-5">
       <InvoiceModal showModal={showModal} closeModal={closeModal} info={payload.invoices[data]} items={payload.invoices[data]?.items} currency={payload.invoices[data]?.currency} subTotal={payload.invoices[data]?.subTotal} taxAmmount={payload.invoices[data]?.taxAmmount} discountAmmount={payload.invoices[data]?.discountAmmount} total={payload.invoices[data]?.total} />
 
       <div className='d-flex justify-content-between my-3'>

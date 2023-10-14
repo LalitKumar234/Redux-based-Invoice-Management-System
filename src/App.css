@@ -89,3 +89,12 @@ hr {
 .no-border{
   border-top: none !important;
 }
+.responsive{
+  width: 75%;
+}
+@media screen and (max-width: 660px) {
+  .responsive{
+    width: 100%;
+    padding: 0 5px;
+  }
+}
