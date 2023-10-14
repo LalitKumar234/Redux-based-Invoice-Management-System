@@ -1,6 +1,7 @@
 import React from 'react'
 import Container from 'react-bootstrap/Container';
-import InvoiceForm from '../components/InvoiceForm';
+import InvoiceForm from '../components/InvoiceForm.jsx';
+// import InvoiceForm from '../components/InvoiceForm';
 
 const CreateInvoice = () => {
   return (

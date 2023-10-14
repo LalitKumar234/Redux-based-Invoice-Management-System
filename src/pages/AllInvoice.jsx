@@ -13,7 +13,7 @@ import { MdAdd } from "react-icons/md"
 import { CgPlayListAdd } from "react-icons/cg"
 
 
-function Home() {
+function AllInvoice() {
   const { payload } = useSelector(allInvoices);
   const dispatch = useDispatch();
 
@@ -107,4 +107,4 @@ function Home() {
   )
 }
 
-export default Home
+export default AllInvoice
