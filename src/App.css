@@ -46,7 +46,7 @@ hr {
 }
 
 .table th {
-  border-top: 1px solid #0000001a;
+  /* border-top: 1px solid #0000001a; */
   border-bottom: 1px solid #0000001a;
   border-bottom-color: #0000001a!important
 }
@@ -85,4 +85,7 @@ hr {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+.no-border{
+  border-top: none !important;
 }
