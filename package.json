@@ -1,6 +1,6 @@
 {
+  "name": "redux-based-invoice-management-system",
   "homepage": "https://LalitKumar234.github.io/Redux-based-Invoice-Management-System",
-  "name": "invoice-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +23,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
