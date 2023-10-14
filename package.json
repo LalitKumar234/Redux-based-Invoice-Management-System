@@ -1,6 +1,6 @@
 {
+  "homepage": "http://LalitKumar234.github.io/Redux-based-Invoice-Management-System",
   "name": "redux-based-invoice-management-system",
-  "homepage": "https://LalitKumar234.github.io/Redux-based-Invoice-Management-System",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
