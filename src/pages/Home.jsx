@@ -81,7 +81,7 @@ function Home() {
                   delay={{ hide: 200, show: 100 }}
                   overlay={(props) => (
                     <Tooltip {...props}>
-                      Create new from this invoice
+                      Copy to new invoice
                     </Tooltip>
                   )}
                   placement="bottom"
