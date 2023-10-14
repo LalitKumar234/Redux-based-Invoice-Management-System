@@ -53,7 +53,7 @@ function AllInvoice() {
               <td className='p-3 no-border'>#{invoice?.invoiceNumber}</td>
               <td className='p-3 no-border'>{invoice?.billTo}</td>
               <td className='p-3 no-border'>{invoice?.dateOfIssue}</td>
-              <td className='p-3 no-border'>{invoice?.subTotal}</td>
+              <td className='p-3 no-border'>{invoice?.currency}{invoice?.subTotal}</td>
               <td className='p-3 no-border d-flex gap-3'>
                 <OverlayTrigger
                   delay={{ hide: 200, show: 100 }}
